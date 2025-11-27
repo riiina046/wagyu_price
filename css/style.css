@@ -83,4 +83,6 @@ footer {
 .card-deck .card-body {
   flex: 1;
 }
-
+.card {
+  border-radius: 0;
+}
